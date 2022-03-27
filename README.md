@@ -1,4 +1,4 @@
-# code-game
+# secret-code-game
 C++ game about guessing the secret code using math
 
 This game is titled "ALIEN CODEBREAKER".
